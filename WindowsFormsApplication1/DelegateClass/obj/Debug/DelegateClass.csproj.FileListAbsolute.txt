@@ -1,0 +1,6 @@
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\DelegateClass\bin\Debug\DelegateClass.exe.config
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\DelegateClass\bin\Debug\DelegateClass.exe
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\DelegateClass\bin\Debug\DelegateClass.pdb
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\DelegateClass\obj\Debug\DelegateClass.csprojResolveAssemblyReference.cache
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\DelegateClass\obj\Debug\DelegateClass.exe
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\DelegateClass\obj\Debug\DelegateClass.pdb

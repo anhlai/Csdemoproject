@@ -1,0 +1,8 @@
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\OverridePrj\bin\Debug\OverridePrj.pdb
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\OverridePrj\obj\Debug\OverridePrj.Form1.resources
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\OverridePrj\obj\Debug\OverridePrj.Properties.Resources.resources
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\OverridePrj\obj\Debug\OverridePrj.csproj.GenerateResource.Cache
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\OverridePrj\obj\Debug\OverridePrj.pdb
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\OverridePrj\bin\Debug\OverridePrj.exe
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\OverridePrj\obj\Debug\OverridePrj.exe
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\OverridePrj\obj\Debug\OverridePrj.csprojResolveAssemblyReference.cache

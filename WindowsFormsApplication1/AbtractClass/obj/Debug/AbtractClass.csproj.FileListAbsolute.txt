@@ -1,0 +1,6 @@
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\AbtractClass\bin\Debug\AbtractClass.exe.config
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\AbtractClass\bin\Debug\AbtractClass.exe
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\AbtractClass\bin\Debug\AbtractClass.pdb
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\AbtractClass\obj\Debug\AbtractClass.csprojResolveAssemblyReference.cache
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\AbtractClass\obj\Debug\AbtractClass.exe
+C:\Users\New-User\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\AbtractClass\obj\Debug\AbtractClass.pdb
